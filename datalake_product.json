@@ -3,6 +3,12 @@
     "Description": "Datalakes Repeatable Play Template",
     "Parameters": 
     {
+        "DatalakePortfolioCFNStack":
+        {
+            "Type": "String",
+            "Description": "Name of the cloudformation stack for datalake portfolio creation",
+            "Default": "datalake-portfolio"
+        },
         "VPCCIDR": 
         {
             "Default" : "10.100.0.0/16",
@@ -338,7 +344,7 @@
             "Properties": {
                 "Command": {
                     "Name": "glueetl",
-                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , { "Ref" :"GlueScriptLocation" }, "admin" , "dlrp-mysql-job" ]]}
+                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , {"Fn::ImportValue":{"Fn::Sub" : "${DatalakePortfolioCFNStack}-GlueScriptsS3Bucket"}} , "dlrp-mysql-job" ]]}
                 },
                 "DefaultArguments": {
                     "--job-bookmark-option": "job-bookmark-enable"
@@ -400,7 +406,7 @@
             "Properties": {
                 "Command": {
                     "Name": "glueetl",
-                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , { "Ref" :"GlueScriptLocation" }, "admin" , "dlrp-s3-job" ]]}
+                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , {"Fn::ImportValue":{"Fn::Sub" : "${DatalakePortfolioCFNStack}-GlueScriptsS3Bucket"}} , "dlrp-s3-job" ]]}
                 },
                 "DefaultArguments": {
                     "--job-bookmark-option": "job-bookmark-enable"
