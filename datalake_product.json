@@ -344,7 +344,8 @@
             "Properties": {
                 "Command": {
                     "Name": "glueetl",
-                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , {"Fn::ImportValue":{"Fn::Sub" : "${DatalakePortfolioCFNStack}-GlueScriptsS3Bucket"}} , "dlrp-mysql-job" ]]}
+                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , { "Ref" :"GlueScriptLocation" }, "admin" , "dlrp-mysql-job" ]]}
+                    
                 },
                 "DefaultArguments": {
                     "--job-bookmark-option": "job-bookmark-enable"
@@ -406,7 +407,7 @@
             "Properties": {
                 "Command": {
                     "Name": "glueetl",
-                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , {"Fn::ImportValue":{"Fn::Sub" : "${DatalakePortfolioCFNStack}-GlueScriptsS3Bucket"}} , "dlrp-s3-job" ]]}
+                    "ScriptLocation":  { "Fn::Join" :  ["/" , [ "s3:/" , { "Ref" :"GlueScriptLocation" }, "admin" , "dlrp-s3-job" ]]}
                 },
                 "DefaultArguments": {
                     "--job-bookmark-option": "job-bookmark-enable"
