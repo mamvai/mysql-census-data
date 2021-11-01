@@ -1,0 +1,55 @@
+SVY_COMP,SVY_COMP_LABEL,GEO_ID,GEO_ID_F,NAME,YEAR,AGG_DESC,AGG_DESC_LABEL,GOVTYPE,GOVTYPE_LABEL,AMOUNT,AMOUNT_FORMATTED
+7,Government Organization,0100000US,null,United States,2012,GO0103,"Enrollment-size group - Dependent elementary-secondary school systems - 1,000 and 2,499 - Count",1,State and Local ,209,209
+7,Government Organization,0100000US,null,United States,2017,GO0103,"Enrollment-size group - Dependent elementary-secondary school systems - 1,000 and 2,499 - Count",1,State and Local ,222,222
+7,Government Organization,0100000US,null,United States,2012,GO0104,"Enrollment-size group - Dependent elementary-secondary school systems - 10,000 and 24,999 - Count",1,State and Local ,86,86
+7,Government Organization,0100000US,null,United States,2017,GO0104,"Enrollment-size group - Dependent elementary-secondary school systems - 10,000 and 24,999 - Count",1,State and Local ,84,84
+7,Government Organization,0100000US,null,United States,2012,GO0105,Enrollment-size group - Dependent elementary-secondary school systems - 100 and 249 - Count,1,State and Local ,84,84
+7,Government Organization,0100000US,null,United States,2017,GO0105,Enrollment-size group - Dependent elementary-secondary school systems - 100 and 249 - Count,1,State and Local ,91,91
+7,Government Organization,0100000US,null,United States,2012,GO0106,"Enrollment-size group - Dependent elementary-secondary school systems - 2,500 and 4,999 - Count",1,State and Local ,256,256
+7,Government Organization,0100000US,null,United States,2017,GO0106,"Enrollment-size group - Dependent elementary-secondary school systems - 2,500 and 4,999 - Count",1,State and Local ,232,232
+7,Government Organization,0100000US,null,United States,2012,GO0107,"Enrollment-size group - Dependent elementary-secondary school systems - 25,000 and 49,999 - Count",1,State and Local ,29,29
+7,Government Organization,0100000US,null,United States,2017,GO0107,"Enrollment-size group - Dependent elementary-secondary school systems - 25,000 and 49,999 - Count",1,State and Local ,31,31
+7,Government Organization,0100000US,null,United States,2012,GO0108,Enrollment-size group - Dependent elementary-secondary school systems - 250 and 499 - Count,1,State and Local ,66,66
+7,Government Organization,0100000US,null,United States,2017,GO0108,Enrollment-size group - Dependent elementary-secondary school systems - 250 and 499 - Count,1,State and Local ,76,76
+7,Government Organization,0100000US,null,United States,2012,GO0109,"Enrollment-size group - Dependent elementary-secondary school systems - 5,000 and 9,999 - Count",1,State and Local ,145,145
+7,Government Organization,0100000US,null,United States,2017,GO0109,"Enrollment-size group - Dependent elementary-secondary school systems - 5,000 and 9,999 - Count",1,State and Local ,147,147
+7,Government Organization,0100000US,null,United States,2012,GO0110,"Enrollment-size group - Dependent elementary-secondary school systems - 50,000 and 99,999 - Count",1,State and Local ,13,13
+7,Government Organization,0100000US,null,United States,2017,GO0110,"Enrollment-size group - Dependent elementary-secondary school systems - 50,000 and 99,999 - Count",1,State and Local ,14,14
+7,Government Organization,0100000US,null,United States,2012,GO0111,Enrollment-size group - Dependent elementary-secondary school systems - 500 and 999 - Count,1,State and Local ,80,80
+7,Government Organization,0100000US,null,United States,2017,GO0111,Enrollment-size group - Dependent elementary-secondary school systems - 500 and 999 - Count,1,State and Local ,82,82
+7,Government Organization,0100000US,null,United States,2012,GO0112,"Enrollment-size group - Dependent elementary-secondary school systems - 100,000 or more - Count",1,State and Local ,9,9
+7,Government Organization,0100000US,null,United States,2017,GO0112,"Enrollment-size group - Dependent elementary-secondary school systems - 100,000 or more - Count",1,State and Local ,8,8
+7,Government Organization,0100000US,null,United States,2012,GO0113,Enrollment-size group - Dependent elementary-secondary school systems - Less than 100 - Count,1,State and Local ,39,39
+7,Government Organization,0100000US,null,United States,2017,GO0113,Enrollment-size group - Dependent elementary-secondary school systems - Less than 100 - Count,1,State and Local ,44,44
+7,Government Organization,0100000US,null,United States,2012,GO0114,Enrollment-size group - Dependent elementary-secondary school systems - None - Count,1,State and Local ,3,3
+7,Government Organization,0100000US,null,United States,2017,GO0114,Enrollment-size group - Dependent elementary-secondary school systems - None - Count,1,State and Local ,X,X
+7,Government Organization,0100000US,null,United States,2012,GO0115,"Enrollment-size group - Independent elementary-secondary school systems - 1,000 and 2,499 - Count",1,State and Local ,3033,"3,033"
+7,Government Organization,0100000US,null,United States,2017,GO0115,"Enrollment-size group - Independent elementary-secondary school systems - 1,000 and 2,499 - Count",1,State and Local ,3003,"3,003"
+7,Government Organization,0100000US,null,United States,2012,GO0116,"Enrollment-size group - Independent elementary-secondary school systems - 10,000 and 24,999 - Count",1,State and Local ,506,506
+7,Government Organization,0100000US,null,United States,2017,GO0116,"Enrollment-size group - Independent elementary-secondary school systems - 10,000 and 24,999 - Count",1,State and Local ,522,522
+7,Government Organization,0100000US,null,United States,2012,GO0117,Enrollment-size group - Independent elementary-secondary school systems - 100 and 249 - Count,1,State and Local ,1262,"1,262"
+7,Government Organization,0100000US,null,United States,2017,GO0117,Enrollment-size group - Independent elementary-secondary school systems - 100 and 249 - Count,1,State and Local ,1223,"1,223"
+7,Government Organization,0100000US,null,United States,2012,GO0118,"Enrollment-size group - Independent elementary-secondary school systems - 2,500 and 4,999 - Count",1,State and Local ,1703,"1,703"
+7,Government Organization,0100000US,null,United States,2017,GO0118,"Enrollment-size group - Independent elementary-secondary school systems - 2,500 and 4,999 - Count",1,State and Local ,1641,"1,641"
+7,Government Organization,0100000US,null,United States,2012,GO0119,"Enrollment-size group - Independent elementary-secondary school systems - 25,000 and 49,999 - Count",1,State and Local ,159,159
+7,Government Organization,0100000US,null,United States,2017,GO0119,"Enrollment-size group - Independent elementary-secondary school systems - 25,000 and 49,999 - Count",1,State and Local ,160,160
+7,Government Organization,0100000US,null,United States,2012,GO0120,Enrollment-size group - Independent elementary-secondary school systems - 250 and 499 - Count,1,State and Local ,1633,"1,633"
+7,Government Organization,0100000US,null,United States,2017,GO0120,Enrollment-size group - Independent elementary-secondary school systems - 250 and 499 - Count,1,State and Local ,1708,"1,708"
+7,Government Organization,0100000US,null,United States,2012,GO0121,"Enrollment-size group - Independent elementary-secondary school systems - 5,000 and 9,999 - Count",1,State and Local ,913,913
+7,Government Organization,0100000US,null,United States,2017,GO0121,"Enrollment-size group - Independent elementary-secondary school systems - 5,000 and 9,999 - Count",1,State and Local ,890,890
+7,Government Organization,0100000US,null,United States,2012,GO0122,"Enrollment-size group - Independent elementary-secondary school systems - 50,000 and 99,999 - Count",1,State and Local ,48,48
+7,Government Organization,0100000US,null,United States,2017,GO0122,"Enrollment-size group - Independent elementary-secondary school systems - 50,000 and 99,999 - Count",1,State and Local ,52,52
+7,Government Organization,0100000US,null,United States,2012,GO0123,Enrollment-size group - Independent elementary-secondary school systems - 500 and 999 - Count,1,State and Local ,2245,"2,245"
+7,Government Organization,0100000US,null,United States,2017,GO0123,Enrollment-size group - Independent elementary-secondary school systems - 500 and 999 - Count,1,State and Local ,2233,"2,233"
+7,Government Organization,0100000US,null,United States,2012,GO0124,"Enrollment-size group - Independent elementary-secondary school systems - 100,000 or more - Count",1,State and Local ,17,17
+7,Government Organization,0100000US,null,United States,2017,GO0124,"Enrollment-size group - Independent elementary-secondary school systems - 100,000 or more - Count",1,State and Local ,21,21
+7,Government Organization,0100000US,null,United States,2012,GO0125,Enrollment-size group - Independent elementary-secondary school systems - Less than 100 - Count,1,State and Local ,706,706
+7,Government Organization,0100000US,null,United States,2017,GO0125,Enrollment-size group - Independent elementary-secondary school systems - Less than 100 - Count,1,State and Local ,660,660
+7,Government Organization,0100000US,null,United States,2012,GO0126,Enrollment-size group - Independent elementary-secondary school systems - None - Count,1,State and Local ,24,24
+7,Government Organization,0100000US,null,United States,2017,GO0126,Enrollment-size group - Independent elementary-secondary school systems - None - Count,1,State and Local ,X,X
+7,Government Organization,0100000US,null,United States,2012,GO0127,Total dependent elementary-secondary school systems,1,State and Local ,1019,"1,019"
+7,Government Organization,0100000US,null,United States,2017,GO0127,Total dependent elementary-secondary school systems,1,State and Local ,1031,"1,031"
+7,Government Organization,0100000US,null,United States,2012,GO0128,Total elementary-secondary school systems,1,State and Local ,13268,"13,268"
+7,Government Organization,0100000US,null,United States,2017,GO0128,Total elementary-secondary school systems,1,State and Local ,13144,"13,144"
+7,Government Organization,0100000US,null,United States,2012,GO0129,Total independent elementary-secondary school districts,1,State and Local ,12249,"12,249"
+7,Government Organization,0100000US,null,United States,2017,GO0129,Total independent elementary-secondary school districts,1,State and Local ,12113,"12,113"
